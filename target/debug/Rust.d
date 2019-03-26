@@ -1,0 +1,1 @@
+C:\Users\maxal\Desktop\Coding\Rust\target\debug\Rust.pdb: C:\Users\maxal\Desktop\Coding\Rust\src\main.rs C:\Users\maxal\Desktop\Coding\Rust\src\pract_format.rs C:\Users\maxal\Desktop\Coding\Rust\src\pract_strings.rs C:\Users\maxal\Desktop\Coding\Rust\src\pract_tuples.rs C:\Users\maxal\Desktop\Coding\Rust\src\pract_types.rs C:\Users\maxal\Desktop\Coding\Rust\src\pract_vars.rs
